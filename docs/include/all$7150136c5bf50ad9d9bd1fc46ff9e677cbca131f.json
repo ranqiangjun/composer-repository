@@ -24,6 +24,18 @@
                 "type": "drupal-library"
             }
         },
+        "drupal-library-custom-admin-lte/custom-event-polyfill": {
+            "1.0.0": {
+                "name": "drupal-library-custom-admin-lte/custom-event-polyfill",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/krambuhl/custom-event-polyfill/archive/1.0.0.zip"
+                },
+                "type": "drupal-library"
+            }
+        },
         "drupal-library-custom-admin-lte/fontawesome4": {
             "4.7.0": {
                 "name": "drupal-library-custom-admin-lte/fontawesome4",

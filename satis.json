@@ -98,6 +98,18 @@
           "type": "zip"
         }
       }
+    },
+    "drupal-library-custom-admin-lte/custom-event-polyfill": {
+      "type": "package",
+      "package": {
+        "name": "drupal-library-custom-admin-lte/custom-event-polyfill",
+        "version": "1.0.0",
+        "type": "drupal-library",
+        "dist": {
+          "url": "https://github.com/krambuhl/custom-event-polyfill/archive/1.0.0.zip",
+          "type": "zip"
+        }
+      }
     }
   },
   "require-all": true
