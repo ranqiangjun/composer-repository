@@ -13,6 +13,91 @@
           "type": "zip"
         }
       }
+    },
+    "drupal-library-select2/select2": {
+      "type": "package",
+      "package": {
+        "name": "drupal-library-select2/select2",
+        "version": "4.0.5",
+        "type": "drupal-library",
+        "dist": {
+          "url": "https://github.com/select2/select2/archive/4.0.5.zip",
+          "type": "zip"
+        }
+      }
+    },
+    "drupal-library-dropzonejs/dropzone": {
+      "type": "package",
+      "package": {
+        "name": "drupal-library-dropzonejs/dropzone",
+        "version": "5.5.0",
+        "type": "drupal-library",
+        "dist": {
+          "url": "https://github.com/enyo/dropzone/archive/v5.5.0.zip",
+          "type": "zip"
+        }
+      }
+    },
+    "drupal-library-fontawesome/fontawesome": {
+      "type": "package",
+      "package": {
+        "name": "drupal-library-fontawesome/fontawesome",
+        "version": "5.7.2",
+        "type": "drupal-library",
+        "dist": {
+          "url": "https://use.fontawesome.com/releases/v5.7.2/fontawesome-free-5.7.2-web.zip",
+          "type": "zip"
+        }
+      }
+    },
+    "drupal-library-fontawesome-iconpicker/fontawesome-iconpicker": {
+      "type": "package",
+      "package": {
+        "name": "drupal-library-fontawesome-iconpicker/fontawesome-iconpicker",
+        "version": "3.2.0",
+        "type": "drupal-library",
+        "dist": {
+          "url": "https://github.com/farbelous/fontawesome-iconpicker/archive/3.2.0.zip",
+          "type": "zip"
+        }
+      }
+    },
+    "drupal-library-month-year/jquery.mtz.monthpicker": {
+      "type": "package",
+      "package": {
+        "name": "drupal-library-month-year/jquery.mtz.monthpicker",
+        "version": "master",
+        "type": "drupal-library",
+        "source": {
+          "url": "https://github.com/lucianocosta/jquery.mtz.monthpicker.git",
+          "type": "git",
+          "reference": "master"
+        }
+      }
+    },
+    "drupal-library-custom-admin-lte/fontawesome4": {
+      "type": "package",
+      "package": {
+        "name": "drupal-library-custom-admin-lte/fontawesome4",
+        "version": "4.7.0",
+        "type": "drupal-library",
+        "dist": {
+          "url": "https://github.com/FortAwesome/Font-Awesome/archive/v4.7.0.zip",
+          "type": "zip"
+        }
+      }
+    },
+    "drupal-library-custom-admin-lte/admin-lte": {
+      "type": "package",
+      "package": {
+        "name": "drupal-library-custom-admin-lte/admin-lte",
+        "version": "2.4.10",
+        "type": "drupal-library",
+        "dist": {
+          "url": "https://github.com/ColorlibHQ/AdminLTE/archive/v2.4.10.zip",
+          "type": "zip"
+        }
+      }
     }
   },
   "require-all": true
