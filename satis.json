@@ -110,6 +110,18 @@
           "type": "zip"
         }
       }
+    },
+    "drupal-library-colorbox/colorbox": {
+      "type": "package",
+      "package": {
+        "name": "drupal-library-colorbox/colorbox",
+        "version": "dev-master",
+        "type": "drupal-library",
+        "dist": {
+          "url": "https://github.com/jackmoore/colorbox/archive/master.zip",
+          "type": "zip"
+        }
+      }
     }
   },
   "require-all": true

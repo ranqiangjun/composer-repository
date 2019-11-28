@@ -1,5 +1,17 @@
 {
     "packages": {
+        "drupal-library-colorbox/colorbox": {
+            "dev-master": {
+                "name": "drupal-library-colorbox/colorbox",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/jackmoore/colorbox/archive/master.zip"
+                },
+                "type": "drupal-library"
+            }
+        },
         "drupal-library-content-browser/masonry": {
             "3.3.2": {
                 "name": "drupal-library-content-browser/masonry",
