@@ -110,13 +110,26 @@
             }
         },
         "drupal-library-select2/select2": {
-            "4.0.5": {
+            "3.5.4": {
                 "name": "drupal-library-select2/select2",
-                "version": "4.0.5",
-                "version_normalized": "4.0.5.0",
+                "version": "3.5.4",
+                "version_normalized": "3.5.4.0",
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/select2/select2/archive/4.0.5.zip"
+                    "url": "https://github.com/select2/select2/archive/3.5.4.zip"
+                },
+                "type": "drupal-library"
+            }
+        },
+        "lucianocosta/jquery.mtz.monthpicker": {
+            "dev-master": {
+                "name": "lucianocosta/jquery.mtz.monthpicker",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/lucianocosta/jquery.mtz.monthpicker.git",
+                    "reference": "master"
                 },
                 "type": "drupal-library"
             }

@@ -18,10 +18,10 @@
       "type": "package",
       "package": {
         "name": "drupal-library-select2/select2",
-        "version": "4.0.5",
+        "version": "3.5.4",
         "type": "drupal-library",
         "dist": {
-          "url": "https://github.com/select2/select2/archive/4.0.5.zip",
+          "url": "https://github.com/select2/select2/archive/3.5.4.zip",
           "type": "zip"
         }
       }
@@ -120,6 +120,19 @@
         "dist": {
           "url": "https://github.com/jackmoore/colorbox/archive/master.zip",
           "type": "zip"
+        }
+      }
+    },
+    "lucianocosta/jquery.mtz.monthpicker": {
+      "type": "package",
+      "package": {
+        "name": "lucianocosta/jquery.mtz.monthpicker",
+        "version": "dev-master",
+        "type": "drupal-library",
+        "source": {
+          "url": "https://github.com/lucianocosta/jquery.mtz.monthpicker.git",
+          "type": "git",
+          "reference":"master"
         }
       }
     }
