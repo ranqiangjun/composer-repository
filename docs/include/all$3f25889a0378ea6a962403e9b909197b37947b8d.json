@@ -121,6 +121,71 @@
                 "type": "drupal-library"
             }
         },
+        "drupal-library/jquery-countto": {
+            "1.2.0": {
+                "name": "drupal-library/jquery-countto",
+                "version": "1.2.0",
+                "version_normalized": "1.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/mhuggins/jquery-countTo/archive/v1.2.0.zip",
+                    "reference": "v1.2.0"
+                },
+                "type": "drupal-library"
+            }
+        },
+        "drupal-library/owlcarousel2": {
+            "2.3.4": {
+                "name": "drupal-library/owlcarousel2",
+                "version": "2.3.4",
+                "version_normalized": "2.3.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/OwlCarousel2/OwlCarousel2/archive/2.3.4.zip",
+                    "reference": "2.3.4"
+                },
+                "type": "drupal-library"
+            }
+        },
+        "drupal-library/paraxify.js": {
+            "0.0.1": {
+                "name": "drupal-library/paraxify.js",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/jaicab/Paraxify.js/archive/v0.1.zip",
+                    "reference": "v0.1"
+                },
+                "type": "drupal-library"
+            }
+        },
+        "drupal-library/waypoints": {
+            "4.0.1": {
+                "name": "drupal-library/waypoints",
+                "version": "4.0.1",
+                "version_normalized": "4.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/imakewebthings/waypoints/archive/4.0.1.zip",
+                    "reference": "4.0.1"
+                },
+                "type": "drupal-library"
+            }
+        },
+        "drupal-library/wow.js": {
+            "1.1.0": {
+                "name": "drupal-library/wow.js",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/matthieua/WOW/archive/1.1.0.zip",
+                    "reference": "1.1.0"
+                },
+                "type": "drupal-library"
+            }
+        },
         "lucianocosta/jquery.mtz.monthpicker": {
             "dev-master": {
                 "name": "lucianocosta/jquery.mtz.monthpicker",
