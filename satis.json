@@ -195,6 +195,30 @@
           "type": "zip"
         }
       }
+    },
+    "drupal-library/d3": {
+      "type": "package",
+      "package": {
+        "name": "drupal-library/d3",
+        "version": "3.5.17",
+        "type": "drupal-library",
+        "dist": {
+          "url": "https://github.com/d3/d3/releases/download/v3.5.17/d3.zip",
+          "type": "zip"
+        }
+      }
+    },
+    "drupal-library/highlightjs": {
+      "type": "package",
+      "package": {
+        "name": "drupal-library/highlightjs",
+        "version": "9.7.0",
+        "type": "drupal-library",
+        "dist": {
+          "url": "https://github.com/highlightjs/highlight.js/archive/9.7.0.zip",
+          "type": "zip"
+        }
+      }
     }
   },
   "require-all": true

@@ -121,6 +121,30 @@
                 "type": "drupal-library"
             }
         },
+        "drupal-library/d3": {
+            "3.5.17": {
+                "name": "drupal-library/d3",
+                "version": "3.5.17",
+                "version_normalized": "3.5.17.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/d3/d3/releases/download/v3.5.17/d3.zip"
+                },
+                "type": "drupal-library"
+            }
+        },
+        "drupal-library/highlightjs": {
+            "9.7.0": {
+                "name": "drupal-library/highlightjs",
+                "version": "9.7.0",
+                "version_normalized": "9.7.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/highlightjs/highlight.js/archive/9.7.0.zip"
+                },
+                "type": "drupal-library"
+            }
+        },
         "drupal-library/jquery-countto": {
             "1.2.0": {
                 "name": "drupal-library/jquery-countto",
