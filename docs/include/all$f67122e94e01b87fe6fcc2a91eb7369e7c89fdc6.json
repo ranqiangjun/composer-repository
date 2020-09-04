@@ -157,6 +157,18 @@
                 "type": "drupal-library"
             }
         },
+        "drupal-library/jquery-ui-touch-punch": {
+            "dev-master": {
+                "name": "drupal-library/jquery-ui-touch-punch",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/furf/jquery-ui-touch-punch/archive/master.zip"
+                },
+                "type": "drupal-library"
+            }
+        },
         "drupal-library/owlcarousel2": {
             "2.3.4": {
                 "name": "drupal-library/owlcarousel2",

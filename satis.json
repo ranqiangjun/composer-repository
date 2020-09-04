@@ -219,6 +219,18 @@
           "type": "zip"
         }
       }
+    },
+    "drupal-library/jquery-ui-touch-punch": {
+      "type": "package",
+      "package": {
+        "name": "drupal-library/jquery-ui-touch-punch",
+        "version": "dev-master",
+        "type": "drupal-library",
+        "dist": {
+          "url": "https://github.com/furf/jquery-ui-touch-punch/archive/master.zip",
+          "type": "zip"
+        }
+      }
     }
   },
   "require-all": true
