@@ -217,6 +217,18 @@
                 "type": "drupal-library"
             }
         },
+        "drupal/webform_layout_container": {
+            "dev-master": {
+                "name": "drupal/webform_layout_container",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/jungleran/webform_layout_container/archive/master.zip"
+                },
+                "type": "drupal-module"
+            }
+        },
         "lucianocosta/jquery.mtz.monthpicker": {
             "dev-master": {
                 "name": "lucianocosta/jquery.mtz.monthpicker",

@@ -231,6 +231,18 @@
           "type": "zip"
         }
       }
+    },
+    "drupal/webform_layout_container": {
+      "type": "package",
+      "package": {
+        "name": "drupal/webform_layout_container",
+        "version": "dev-master",
+        "type": "drupal-module",
+        "dist": {
+          "url": "https://github.com/jungleran/webform_layout_container/archive/master.zip",
+          "type": "zip"
+        }
+      }
     }
   },
   "require-all": true
