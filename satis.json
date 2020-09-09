@@ -232,11 +232,192 @@
         }
       }
     },
+
+    "drupal/adminimal_theme": {
+      "type": "package",
+      "package": {
+        "name": "drupal/adminimal_theme",
+        "version": "0.0.1",
+        "type": "drupal-module",
+        "dist": {
+          "url": "https://github.com/jungleran/adminimal_theme/archive/master.zip",
+          "type": "zip"
+        }
+      }
+    },
+    "drupal/fontawesome_menu_icons": {
+      "type": "package",
+      "package": {
+        "name": "drupal/fontawesome_menu_icons",
+        "version": "0.0.1",
+        "type": "drupal-module",
+        "dist": {
+          "url": "https://github.com/jungleran/fontawesome_menu_icons/archive/master.zip",
+          "type": "zip"
+        }
+      }
+    },
+    "drupal/json_field": {
+      "type": "package",
+      "package": {
+        "name": "drupal/json_field",
+        "version": "0.0.1",
+        "type": "drupal-module",
+        "dist": {
+          "url": "https://github.com/jungleran/json_field/archive/master.zip",
+          "type": "zip"
+        }
+      }
+    },
+    "drupal/libraries": {
+      "type": "package",
+      "package": {
+        "name": "drupal/libraries",
+        "version": "0.0.1",
+        "type": "drupal-module",
+        "dist": {
+          "url": "https://github.com/jungleran/libraries/archive/master.zip",
+          "type": "zip"
+        }
+      }
+    },
+    "drupal/login_emailusername": {
+      "type": "package",
+      "package": {
+        "name": "drupal/login_emailusername",
+        "version": "0.0.1",
+        "type": "drupal-module",
+        "dist": {
+          "url": "https://github.com/jungleran/login_emailusername/archive/master.zip",
+          "type": "zip"
+        }
+      }
+    },
+    "drupal/login_history": {
+      "type": "package",
+      "package": {
+        "name": "drupal/login_history",
+        "version": "0.0.1",
+        "type": "drupal-module",
+        "dist": {
+          "url": "https://github.com/jungleran/login_history/archive/master.zip",
+          "type": "zip"
+        }
+      }
+    },
+    "drupal/login_security": {
+      "type": "package",
+      "package": {
+        "name": "drupal/login_security",
+        "version": "0.0.1",
+        "type": "drupal-module",
+        "dist": {
+          "url": "https://github.com/jungleran/login_security/archive/master.zip",
+          "type": "zip"
+        }
+      }
+    },
+    "drupal/message": {
+      "type": "package",
+      "package": {
+        "name": "drupal/message",
+        "version": "0.0.1",
+        "type": "drupal-module",
+        "dist": {
+          "url": "https://github.com/jungleran/message/archive/master.zip",
+          "type": "zip"
+        }
+      }
+    },
+    "drupal/message_notify": {
+      "type": "package",
+      "package": {
+        "name": "drupal/message_notify",
+        "version": "0.0.1",
+        "type": "drupal-module",
+        "dist": {
+          "url": "https://github.com/jungleran/message_notify/archive/master.zip",
+          "type": "zip"
+        }
+      }
+    },
+    "drupal/permissions_by_term": {
+      "type": "package",
+      "package": {
+        "name": "drupal/permissions_by_term",
+        "version": "0.0.1",
+        "type": "drupal-module",
+        "dist": {
+          "url": "https://github.com/jungleran/permissions_by_term/archive/master.zip",
+          "type": "zip"
+        }
+      }
+    },
+    "drupal/protect_before_launch": {
+      "type": "package",
+      "package": {
+        "name": "drupal/protect_before_launch",
+        "version": "0.0.1",
+        "type": "drupal-module",
+        "dist": {
+          "url": "https://github.com/jungleran/protect_before_launch/archive/master.zip",
+          "type": "zip"
+        }
+      }
+    },
+    "drupal/select_icons": {
+      "type": "package",
+      "package": {
+        "name": "drupal/select_icons",
+        "version": "0.0.1",
+        "type": "drupal-module",
+        "dist": {
+          "url": "https://github.com/jungleran/select_icons/archive/master.zip",
+          "type": "zip"
+        }
+      }
+    },
+    "drupal/views_conditional": {
+      "type": "package",
+      "package": {
+        "name": "drupal/views_conditional",
+        "version": "0.0.1",
+        "type": "drupal-module",
+        "dist": {
+          "url": "https://github.com/jungleran/views_conditional/archive/master.zip",
+          "type": "zip"
+        }
+      }
+    },
+    "drupal/views_entity_form_field": {
+      "type": "package",
+      "package": {
+        "name": "drupal/views_entity_form_field",
+        "version": "0.0.1",
+        "type": "drupal-module",
+        "dist": {
+          "url": "https://github.com/jungleran/views_entity_form_field/archive/master.zip",
+          "type": "zip"
+        }
+      }
+    },
+    "drupal/webform_embed": {
+      "type": "package",
+      "package": {
+        "name": "drupal/webform_embed",
+        "version": "0.0.1",
+        "type": "drupal-module",
+        "dist": {
+          "url": "https://github.com/jungleran/webform_embed/archive/master.zip",
+          "type": "zip"
+        }
+      }
+    },
     "drupal/webform_layout_container": {
       "type": "package",
       "package": {
         "name": "drupal/webform_layout_container",
-        "version": "dev-master",
+        "version": "0.0.1",
         "type": "drupal-module",
         "dist": {
           "url": "https://github.com/jungleran/webform_layout_container/archive/master.zip",
