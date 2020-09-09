@@ -302,10 +302,10 @@
             }
         },
         "drupal/message": {
-            "0.0.1": {
+            "1.0.999": {
                 "name": "drupal/message",
-                "version": "0.0.1",
-                "version_normalized": "0.0.1.0",
+                "version": "1.0.999",
+                "version_normalized": "1.0.999.0",
                 "dist": {
                     "type": "zip",
                     "url": "https://github.com/jungleran/message/archive/master.zip"
@@ -314,10 +314,10 @@
             }
         },
         "drupal/message_notify": {
-            "0.0.1": {
+            "1.0.999": {
                 "name": "drupal/message_notify",
-                "version": "0.0.1",
-                "version_normalized": "0.0.1.0",
+                "version": "1.0.999",
+                "version_normalized": "1.0.999.0",
                 "dist": {
                     "type": "zip",
                     "url": "https://github.com/jungleran/message_notify/archive/master.zip"

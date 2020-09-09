@@ -321,7 +321,7 @@
       "type": "package",
       "package": {
         "name": "drupal/message",
-        "version": "0.0.1",
+        "version": "1.0.999",
         "type": "drupal-module",
         "dist": {
           "url": "https://github.com/jungleran/message/archive/master.zip",
@@ -333,7 +333,7 @@
       "type": "package",
       "package": {
         "name": "drupal/message_notify",
-        "version": "0.0.1",
+        "version": "1.0.999",
         "type": "drupal-module",
         "dist": {
           "url": "https://github.com/jungleran/message_notify/archive/master.zip",
