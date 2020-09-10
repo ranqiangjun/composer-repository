@@ -345,10 +345,10 @@
       "type": "package",
       "package": {
         "name": "drupal/permissions_by_term",
-        "version": "0.0.1",
+        "version": "3.1.999",
         "type": "drupal-module",
         "dist": {
-          "url": "https://github.com/jungleran/permissions_by_term/archive/master.zip",
+          "url": "https://github.com/jungleran/permissions_by_term/archive/3.1.x-dev.zip",
           "type": "zip"
         }
       }
