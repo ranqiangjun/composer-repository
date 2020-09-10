@@ -321,7 +321,7 @@
       "type": "package",
       "package": {
         "name": "drupal/message",
-        "version": "1.0.1000",
+        "version": "1.0.998",
         "type": "drupal-module",
         "dist": {
           "url": "https://github.com/jungleran/message/archive/main.zip",
