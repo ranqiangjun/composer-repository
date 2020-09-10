@@ -302,13 +302,13 @@
             }
         },
         "drupal/message": {
-            "1.0.999": {
+            "1.0.1000": {
                 "name": "drupal/message",
-                "version": "1.0.999",
-                "version_normalized": "1.0.999.0",
+                "version": "1.0.1000",
+                "version_normalized": "1.0.1000.0",
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/jungleran/message/archive/master.zip"
+                    "url": "https://github.com/jungleran/message/archive/main.zip"
                 },
                 "type": "drupal-module"
             }
