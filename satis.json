@@ -393,10 +393,10 @@
       "type": "package",
       "package": {
         "name": "drupal/views_entity_form_field",
-        "version": "0.0.1",
+        "version": "0.0.2",
         "type": "drupal-module",
         "dist": {
-          "url": "https://github.com/jungleran/views_entity_form_field/archive/master.zip",
+          "url": "https://github.com/jungleran/views_entity_form_field/archive/8a662891a62f7e1a384517e57b13704b910fe949.zip",
           "type": "zip"
         }
       }

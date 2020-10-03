@@ -374,13 +374,13 @@
             }
         },
         "drupal/views_entity_form_field": {
-            "0.0.1": {
+            "0.0.2": {
                 "name": "drupal/views_entity_form_field",
-                "version": "0.0.1",
-                "version_normalized": "0.0.1.0",
+                "version": "0.0.2",
+                "version_normalized": "0.0.2.0",
                 "dist": {
                     "type": "zip",
-                    "url": "https://github.com/jungleran/views_entity_form_field/archive/master.zip"
+                    "url": "https://github.com/jungleran/views_entity_form_field/archive/8a662891a62f7e1a384517e57b13704b910fe949.zip"
                 },
                 "type": "drupal-module"
             }
