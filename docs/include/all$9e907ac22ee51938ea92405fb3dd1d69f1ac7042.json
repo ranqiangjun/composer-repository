@@ -1,0 +1,906 @@
+{
+    "packages": {
+        "algolia/places": {
+            "1.19.0": {
+                "name": "algolia/places",
+                "version": "1.19.0",
+                "version_normalized": "1.19.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://registry.npmjs.org/places.js/-/places.js-1.19.0.tgz"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "drupal-library",
+                "extra": {
+                    "installer-name": "algolia.places"
+                }
+            }
+        },
+        "choices/choices": {
+            "9.0.1": {
+                "name": "choices/choices",
+                "version": "9.0.1",
+                "version_normalized": "9.0.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/jshjohnson/Choices/archive/v9.0.1.zip"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "drupal-library",
+                "extra": {
+                    "installer-name": "choices"
+                }
+            }
+        },
+        "ckeditor/autogrow": {
+            "4.14.1": {
+                "name": "ckeditor/autogrow",
+                "version": "4.14.1",
+                "version_normalized": "4.14.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://download.ckeditor.com/autogrow/releases/autogrow_4.14.1.zip"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "drupal-library",
+                "extra": {
+                    "installer-name": "ckeditor.autogrow"
+                }
+            }
+        },
+        "ckeditor/codemirror": {
+            "v1.17.12": {
+                "name": "ckeditor/codemirror",
+                "version": "v1.17.12",
+                "version_normalized": "1.17.12.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/w8tcha/CKEditor-CodeMirror-Plugin/releases/download/v1.17.12/CKEditor-CodeMirror-Plugin.zip"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "drupal-library",
+                "extra": {
+                    "installer-name": "ckeditor.codemirror"
+                }
+            }
+        },
+        "ckeditor/fakeobjects": {
+            "4.14.1": {
+                "name": "ckeditor/fakeobjects",
+                "version": "4.14.1",
+                "version_normalized": "4.14.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://download.ckeditor.com/fakeobjects/releases/fakeobjects_4.14.1.zip"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "drupal-library",
+                "extra": {
+                    "installer-name": "ckeditor.fakeobjects"
+                }
+            }
+        },
+        "ckeditor/image": {
+            "4.14.1": {
+                "name": "ckeditor/image",
+                "version": "4.14.1",
+                "version_normalized": "4.14.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://download.ckeditor.com/image/releases/image_4.14.1.zip"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "drupal-library",
+                "extra": {
+                    "installer-name": "ckeditor.image"
+                }
+            }
+        },
+        "ckeditor/link": {
+            "4.14.1": {
+                "name": "ckeditor/link",
+                "version": "4.14.1",
+                "version_normalized": "4.14.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://download.ckeditor.com/link/releases/link_4.14.1.zip"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "drupal-library",
+                "extra": {
+                    "installer-name": "ckeditor.link"
+                }
+            }
+        },
+        "codemirror/codemirror": {
+            "5.57.0": {
+                "name": "codemirror/codemirror",
+                "version": "5.57.0",
+                "version_normalized": "5.57.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/components/codemirror/archive/5.57.0.zip"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "drupal-library",
+                "extra": {
+                    "installer-name": "codemirror"
+                }
+            }
+        },
+        "drupal-library-colorbox/colorbox": {
+            "dev-master": {
+                "name": "drupal-library-colorbox/colorbox",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/jackmoore/colorbox/archive/master.zip"
+                },
+                "type": "drupal-library"
+            }
+        },
+        "drupal-library-content-browser/masonry": {
+            "3.3.2": {
+                "name": "drupal-library-content-browser/masonry",
+                "version": "3.3.2",
+                "version_normalized": "3.3.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/desandro/masonry/archive/v3.3.2.zip"
+                },
+                "type": "drupal-library"
+            }
+        },
+        "drupal-library-custom-admin-lte/admin-lte": {
+            "2.4.10": {
+                "name": "drupal-library-custom-admin-lte/admin-lte",
+                "version": "2.4.10",
+                "version_normalized": "2.4.10.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/ColorlibHQ/AdminLTE/archive/v2.4.10.zip"
+                },
+                "type": "drupal-library"
+            }
+        },
+        "drupal-library-custom-admin-lte/custom-event-polyfill": {
+            "1.0.0": {
+                "name": "drupal-library-custom-admin-lte/custom-event-polyfill",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/krambuhl/custom-event-polyfill/archive/1.0.0.zip"
+                },
+                "type": "drupal-library"
+            }
+        },
+        "drupal-library-custom-admin-lte/fontawesome4": {
+            "4.7.0": {
+                "name": "drupal-library-custom-admin-lte/fontawesome4",
+                "version": "4.7.0",
+                "version_normalized": "4.7.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/FortAwesome/Font-Awesome/archive/v4.7.0.zip"
+                },
+                "type": "drupal-library"
+            }
+        },
+        "drupal-library-dropzonejs/dropzone": {
+            "5.5.0": {
+                "name": "drupal-library-dropzonejs/dropzone",
+                "version": "5.5.0",
+                "version_normalized": "5.5.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/enyo/dropzone/archive/v5.5.0.zip"
+                },
+                "type": "drupal-library"
+            }
+        },
+        "drupal-library-fontawesome-iconpicker/fontawesome-iconpicker": {
+            "3.2.0": {
+                "name": "drupal-library-fontawesome-iconpicker/fontawesome-iconpicker",
+                "version": "3.2.0",
+                "version_normalized": "3.2.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/farbelous/fontawesome-iconpicker/archive/3.2.0.zip"
+                },
+                "type": "drupal-library"
+            }
+        },
+        "drupal-library-fontawesome/fontawesome": {
+            "5.7.2": {
+                "name": "drupal-library-fontawesome/fontawesome",
+                "version": "5.7.2",
+                "version_normalized": "5.7.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://use.fontawesome.com/releases/v5.7.2/fontawesome-free-5.7.2-web.zip"
+                },
+                "type": "drupal-library"
+            }
+        },
+        "drupal-library-month-year/jquery.mtz.monthpicker": {
+            "master": {
+                "name": "drupal-library-month-year/jquery.mtz.monthpicker",
+                "version": "master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/lucianocosta/jquery.mtz.monthpicker.git",
+                    "reference": "master"
+                },
+                "type": "drupal-library"
+            }
+        },
+        "drupal-library-select2/select2": {
+            "4.0.12": {
+                "name": "drupal-library-select2/select2",
+                "version": "4.0.12",
+                "version_normalized": "4.0.12.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/select2/select2/archive/4.0.12.zip"
+                },
+                "type": "drupal-library"
+            }
+        },
+        "drupal-library/d3": {
+            "3.5.17": {
+                "name": "drupal-library/d3",
+                "version": "3.5.17",
+                "version_normalized": "3.5.17.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/d3/d3/releases/download/v3.5.17/d3.zip"
+                },
+                "type": "drupal-library"
+            }
+        },
+        "drupal-library/highlightjs": {
+            "9.7.0": {
+                "name": "drupal-library/highlightjs",
+                "version": "9.7.0",
+                "version_normalized": "9.7.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/highlightjs/highlight.js/archive/9.7.0.zip"
+                },
+                "type": "drupal-library"
+            }
+        },
+        "drupal-library/jquery-countto": {
+            "1.2.0": {
+                "name": "drupal-library/jquery-countto",
+                "version": "1.2.0",
+                "version_normalized": "1.2.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/mhuggins/jquery-countTo/archive/v1.2.0.zip"
+                },
+                "type": "drupal-library"
+            }
+        },
+        "drupal-library/jquery-ui-touch-punch": {
+            "dev-master": {
+                "name": "drupal-library/jquery-ui-touch-punch",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/furf/jquery-ui-touch-punch/archive/master.zip"
+                },
+                "type": "drupal-library"
+            }
+        },
+        "drupal-library/owlcarousel2": {
+            "2.3.4": {
+                "name": "drupal-library/owlcarousel2",
+                "version": "2.3.4",
+                "version_normalized": "2.3.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/OwlCarousel2/OwlCarousel2/archive/2.3.4.zip"
+                },
+                "type": "drupal-library"
+            }
+        },
+        "drupal-library/paraxify.js": {
+            "0.0.1": {
+                "name": "drupal-library/paraxify.js",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/jaicab/Paraxify.js/archive/v0.1.zip"
+                },
+                "type": "drupal-library"
+            }
+        },
+        "drupal-library/waypoints": {
+            "4.0.1": {
+                "name": "drupal-library/waypoints",
+                "version": "4.0.1",
+                "version_normalized": "4.0.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/imakewebthings/waypoints/archive/4.0.1.zip"
+                },
+                "type": "drupal-library"
+            }
+        },
+        "drupal-library/wow.js": {
+            "1.1.0": {
+                "name": "drupal-library/wow.js",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/matthieua/WOW/archive/1.1.0.zip"
+                },
+                "type": "drupal-library"
+            }
+        },
+        "drupal/adminimal_theme": {
+            "0.0.1": {
+                "name": "drupal/adminimal_theme",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/jungleran/adminimal_theme/archive/master.zip"
+                },
+                "type": "drupal-module"
+            }
+        },
+        "drupal/fontawesome_menu_icons": {
+            "0.0.1": {
+                "name": "drupal/fontawesome_menu_icons",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/jungleran/fontawesome_menu_icons/archive/master.zip"
+                },
+                "type": "drupal-module"
+            }
+        },
+        "drupal/json_field": {
+            "0.0.1": {
+                "name": "drupal/json_field",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/jungleran/json_field/archive/master.zip"
+                },
+                "type": "drupal-module"
+            }
+        },
+        "drupal/libraries": {
+            "0.0.1": {
+                "name": "drupal/libraries",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/jungleran/libraries/archive/master.zip"
+                },
+                "type": "drupal-module"
+            }
+        },
+        "drupal/login_emailusername": {
+            "0.0.1": {
+                "name": "drupal/login_emailusername",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/jungleran/login_emailusername/archive/master.zip"
+                },
+                "type": "drupal-module"
+            }
+        },
+        "drupal/login_history": {
+            "0.0.1": {
+                "name": "drupal/login_history",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/jungleran/login_history/archive/master.zip"
+                },
+                "type": "drupal-module"
+            }
+        },
+        "drupal/login_security": {
+            "0.0.1": {
+                "name": "drupal/login_security",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/jungleran/login_security/archive/master.zip"
+                },
+                "type": "drupal-module"
+            }
+        },
+        "drupal/message": {
+            "1.0.998": {
+                "name": "drupal/message",
+                "version": "1.0.998",
+                "version_normalized": "1.0.998.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/jungleran/message/archive/main.zip"
+                },
+                "type": "drupal-module"
+            }
+        },
+        "drupal/message_notify": {
+            "1.0.999": {
+                "name": "drupal/message_notify",
+                "version": "1.0.999",
+                "version_normalized": "1.0.999.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/jungleran/message_notify/archive/master.zip"
+                },
+                "type": "drupal-module"
+            }
+        },
+        "drupal/permissions_by_term": {
+            "3.1.999": {
+                "name": "drupal/permissions_by_term",
+                "version": "3.1.999",
+                "version_normalized": "3.1.999.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/jungleran/permissions_by_term/archive/3.1.x-dev.zip"
+                },
+                "type": "drupal-module"
+            }
+        },
+        "drupal/protect_before_launch": {
+            "0.0.1": {
+                "name": "drupal/protect_before_launch",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/jungleran/protect_before_launch/archive/master.zip"
+                },
+                "type": "drupal-module"
+            }
+        },
+        "drupal/select_icons": {
+            "0.0.1": {
+                "name": "drupal/select_icons",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/jungleran/select_icons/archive/master.zip"
+                },
+                "type": "drupal-module"
+            }
+        },
+        "drupal/views_conditional": {
+            "0.0.1": {
+                "name": "drupal/views_conditional",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/jungleran/views_conditional/archive/master.zip"
+                },
+                "type": "drupal-module"
+            }
+        },
+        "drupal/views_entity_form_field": {
+            "0.0.3": {
+                "name": "drupal/views_entity_form_field",
+                "version": "0.0.3",
+                "version_normalized": "0.0.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/jungleran/views_entity_form_field/archive/b8cdce5ff92d190ee36bf025bc8f96c449cb6a79.zip"
+                },
+                "type": "drupal-module"
+            }
+        },
+        "drupal/webform_embed": {
+            "0.0.1": {
+                "name": "drupal/webform_embed",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/jungleran/webform_embed/archive/master.zip"
+                },
+                "type": "drupal-module"
+            }
+        },
+        "drupal/webform_layout_container": {
+            "0.0.1": {
+                "name": "drupal/webform_layout_container",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/jungleran/webform_layout_container/archive/master.zip"
+                },
+                "type": "drupal-module"
+            }
+        },
+        "enyo/dropzone": {
+            "5.7.1": {
+                "name": "enyo/dropzone",
+                "version": "5.7.1",
+                "version_normalized": "5.7.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/enyo/dropzone/archive/v5.7.1.zip"
+                },
+                "type": "drupal-library"
+            }
+        },
+        "jquery/chosen": {
+            "1.8.7": {
+                "name": "jquery/chosen",
+                "version": "1.8.7",
+                "version_normalized": "1.8.7.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/harvesthq/chosen/releases/download/v1.8.7/chosen_v1.8.7.zip"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "drupal-library",
+                "extra": {
+                    "installer-name": "jquery.chosen"
+                }
+            }
+        },
+        "jquery/geocomplete": {
+            "1.7.0": {
+                "name": "jquery/geocomplete",
+                "version": "1.7.0",
+                "version_normalized": "1.7.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/ubilabs/geocomplete/archive/1.7.0.zip"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "drupal-library",
+                "extra": {
+                    "installer-name": "jquery.geocomplete"
+                }
+            }
+        },
+        "jquery/hotkeys": {
+            "0.2.0": {
+                "name": "jquery/hotkeys",
+                "version": "0.2.0",
+                "version_normalized": "0.2.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/jeresig/jquery.hotkeys/archive/0.2.0.zip"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "drupal-library",
+                "extra": {
+                    "installer-name": "jquery.hotkeys"
+                }
+            }
+        },
+        "jquery/icheck": {
+            "1.0.2 ": {
+                "name": "jquery/icheck",
+                "version": "1.0.2 ",
+                "version_normalized": "1.0.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/fronteed/icheck/archive/1.0.2.zip"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "drupal-library",
+                "extra": {
+                    "installer-name": "jquery.icheck"
+                }
+            }
+        },
+        "jquery/image-picker": {
+            "0.3.1": {
+                "name": "jquery/image-picker",
+                "version": "0.3.1",
+                "version_normalized": "0.3.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/rvera/image-picker/archive/0.3.1.zip"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "drupal-library",
+                "extra": {
+                    "installer-name": "jquery.image-picker"
+                }
+            }
+        },
+        "jquery/inputmask": {
+            "5.0.5": {
+                "name": "jquery/inputmask",
+                "version": "5.0.5",
+                "version_normalized": "5.0.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/RobinHerbots/jquery.inputmask/archive/5.0.5.zip"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "drupal-library",
+                "extra": {
+                    "installer-name": "jquery.inputmask"
+                }
+            }
+        },
+        "jquery/intl-tel-input": {
+            "16.1.0": {
+                "name": "jquery/intl-tel-input",
+                "version": "16.1.0",
+                "version_normalized": "16.1.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/jackocnr/intl-tel-input/archive/v16.1.0.zip"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "drupal-library",
+                "extra": {
+                    "installer-name": "jquery.intl-tel-input"
+                }
+            }
+        },
+        "jquery/rateit": {
+            "1.1.3": {
+                "name": "jquery/rateit",
+                "version": "1.1.3",
+                "version_normalized": "1.1.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/gjunge/rateit.js/archive/1.1.3.zip"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "drupal-library",
+                "extra": {
+                    "installer-name": "jquery.rateit"
+                }
+            }
+        },
+        "jquery/select2": {
+            "4.0.13": {
+                "name": "jquery/select2",
+                "version": "4.0.13",
+                "version_normalized": "4.0.13.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/select2/select2/archive/4.0.13.zip"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "drupal-library",
+                "extra": {
+                    "installer-name": "jquery.select2"
+                }
+            }
+        },
+        "jquery/textcounter": {
+            "0.9.0": {
+                "name": "jquery/textcounter",
+                "version": "0.9.0",
+                "version_normalized": "0.9.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/ractoon/jQuery-Text-Counter/archive/0.9.0.zip"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "drupal-library",
+                "extra": {
+                    "installer-name": "jquery.textcounter"
+                }
+            }
+        },
+        "jquery/timepicker": {
+            "1.13.14": {
+                "name": "jquery/timepicker",
+                "version": "1.13.14",
+                "version_normalized": "1.13.14.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/jonthornton/jquery-timepicker/archive/1.13.14.zip"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "drupal-library",
+                "extra": {
+                    "installer-name": "jquery.timepicker"
+                }
+            }
+        },
+        "jquery/toggles": {
+            "4.0.0": {
+                "name": "jquery/toggles",
+                "version": "4.0.0",
+                "version_normalized": "4.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/simontabor/jquery-toggles/archive/v4.0.0.zip"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "drupal-library",
+                "extra": {
+                    "installer-name": "jquery.toggles"
+                }
+            }
+        },
+        "lucianocosta/jquery.mtz.monthpicker": {
+            "dev-master": {
+                "name": "lucianocosta/jquery.mtz.monthpicker",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/lucianocosta/jquery.mtz.monthpicker.git",
+                    "reference": "master"
+                },
+                "type": "drupal-library"
+            }
+        },
+        "progress-tracker/progress-tracker": {
+            "2.0.6": {
+                "name": "progress-tracker/progress-tracker",
+                "version": "2.0.6",
+                "version_normalized": "2.0.6.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/NigelOToole/progress-tracker/archive/2.0.6.zip"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "drupal-library",
+                "extra": {
+                    "installer-name": "progress-tracker"
+                }
+            }
+        },
+        "signature_pad/signature_pad": {
+            "2.3.0": {
+                "name": "signature_pad/signature_pad",
+                "version": "2.3.0",
+                "version_normalized": "2.3.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/szimek/signature_pad/archive/v2.3.0.zip"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "drupal-library",
+                "extra": {
+                    "installer-name": "signature_pad"
+                }
+            }
+        },
+        "svg-pan-zoom/svg-pan-zoom": {
+            "3.6.1": {
+                "name": "svg-pan-zoom/svg-pan-zoom",
+                "version": "3.6.1",
+                "version_normalized": "3.6.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/ariutta/svg-pan-zoom/archive/3.6.1.zip"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "drupal-library",
+                "extra": {
+                    "installer-name": "svg-pan-zoom"
+                }
+            }
+        },
+        "tabby/tabby": {
+            "12.0.3": {
+                "name": "tabby/tabby",
+                "version": "12.0.3",
+                "version_normalized": "12.0.3.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/cferdinandi/tabby/archive/v12.0.3.zip"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "drupal-library",
+                "extra": {
+                    "installer-name": "tabby"
+                }
+            }
+        },
+        "tippyjs/5.x": {
+            "5.2.1": {
+                "name": "tippyjs/5.x",
+                "version": "5.2.1",
+                "version_normalized": "5.2.1.0",
+                "dist": {
+                    "type": "file",
+                    "url": "https://unpkg.com/tippy.js@5.2.1/dist/tippy-bundle.iife.min.js"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "drupal-library",
+                "extra": {
+                    "installer-name": "tippyjs/5.x"
+                }
+            }
+        },
+        "tippyjs/6.x": {
+            "6.2.6": {
+                "name": "tippyjs/6.x",
+                "version": "6.2.6",
+                "version_normalized": "6.2.6.0",
+                "dist": {
+                    "type": "file",
+                    "url": "https://unpkg.com/tippy.js@6.2.6/dist/tippy-bundle.umd.min.js"
+                },
+                "require": {
+                    "composer/installers": "~1.0"
+                },
+                "type": "drupal-library",
+                "extra": {
+                    "installer-name": "tippyjs/6.x"
+                }
+            }
+        }
+    }
+}
