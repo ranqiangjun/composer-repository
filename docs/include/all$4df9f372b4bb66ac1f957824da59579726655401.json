@@ -216,6 +216,18 @@
                 "type": "drupal-library"
             }
         },
+        "drupal-library-enyo/dropzone": {
+            "5.7.1": {
+                "name": "drupal-library-enyo/dropzone",
+                "version": "5.7.1",
+                "version_normalized": "5.7.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/enyo/dropzone/archive/v5.7.1.zip"
+                },
+                "type": "drupal-library"
+            }
+        },
         "drupal-library-fontawesome-iconpicker/fontawesome-iconpicker": {
             "3.2.0": {
                 "name": "drupal-library-fontawesome-iconpicker/fontawesome-iconpicker",
@@ -551,18 +563,6 @@
                     "url": "https://github.com/jungleran/webform_layout_container/archive/master.zip"
                 },
                 "type": "drupal-module"
-            }
-        },
-        "enyo/dropzone": {
-            "5.7.1": {
-                "name": "enyo/dropzone",
-                "version": "5.7.1",
-                "version_normalized": "5.7.1.0",
-                "dist": {
-                    "type": "zip",
-                    "url": "https://github.com/enyo/dropzone/archive/v5.7.1.zip"
-                },
-                "type": "drupal-library"
             }
         },
         "jquery/chosen": {
