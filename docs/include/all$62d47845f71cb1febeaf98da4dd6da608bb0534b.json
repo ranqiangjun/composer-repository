@@ -241,9 +241,9 @@
             }
         },
         "drupal-library-month-year/jquery.mtz.monthpicker": {
-            "master": {
+            "dev-master": {
                 "name": "drupal-library-month-year/jquery.mtz.monthpicker",
-                "version": "master",
+                "version": "dev-master",
                 "version_normalized": "9999999-dev",
                 "source": {
                     "type": "git",

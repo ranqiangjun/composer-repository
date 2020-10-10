@@ -78,7 +78,7 @@
       "type": "package",
       "package": {
         "name": "drupal-library-month-year/jquery.mtz.monthpicker",
-        "version": "master",
+        "version": "dev-master",
         "type": "drupal-library",
         "source": {
           "url": "https://github.com/lucianocosta/jquery.mtz.monthpicker.git",
